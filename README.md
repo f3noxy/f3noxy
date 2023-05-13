@@ -6,8 +6,8 @@
 - ⚡ Fun fact: adoro Gorillaz
 
 <div><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=f3noxy&show_icons=true&hide=prs&theme=transparent&hide_title=true&hide_border=true&locale=pt-br&text_color=FFFAFA&icon_color=98FB98&ring_color=FF4500&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3noxy&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=FFFAFA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f3noxy&show_icons=true&hide=prs&theme=transparent&hide_title=true&hide_border=true&locale=pt-br&text_color=8B8989&icon_color=98FB98&ring_color=836FFF&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3noxy&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=8B8989" />
 <div>
 
 <br><br>
