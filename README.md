@@ -34,5 +34,4 @@
 
 <br>
 
-  
-[!Fenox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f3noxy&bg_color=4f4f4f&color=f04242&line=e34a4a&point=403d3d&area=true&area_color=BE2535&hide_border=true&custom_title=Contribuicões%20no%20último%20mês)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fenox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f3noxy&bg_color=4f4f4f&color=f04242&line=e34a4a&point=403d3d&area=true&area_color=BE2535&hide_border=true&custom_title=Commits%20no%20último%20mês)](https://github.com/ashutosh00710/github-readme-activity-graph)
