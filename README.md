@@ -1,26 +1,69 @@
-## Olá, me chamo Wilton Nicolas 👋
-
-- 🔭 Tenho interesse na área back-end
-- 🌱 Focado atualmente em estudar **Java** e **C**
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: adoro Gorillaz
-
-<div><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=f3noxy&show_icons=true&hide=prs&theme=transparent&hide_title=true&hide_border=true&locale=pt-br&text_color=8B8989&icon_color=98FB98&ring_color=836FFF&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3noxy&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=8B8989" />
-<div>
-
-<br><br>
+##  Bem-vindo 👋
+#### ☕ <i>Desenvolvedor back-end</i>
+###### The only thing I ever regret is not having enough time.
 
 <div>
-  <h2>Conhecimentos em:</h2>
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/python/wilton-nicolas-de-lima-lopes"><img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/wilton-nicolas-de-lima-lopes"> <img width=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <img align=top width=60 height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/css/wilton-nicolas-de-lima-lopes"><img align=top width=50 height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-<div>
+<table>
+    <thead>
+        <tr>
+            <th>
+                <font>
+                  <img src="https://github-readme-stats.vercel.app/api?username=f3noxy&show_icons=true&hide=prs&theme=transparent&hide_title=true&hide_border=true&locale=pt-br&text_color=8B8989&icon_color=98FB98&ring_color=836FFF&include_all_commits=true&count_private=true" />
+                </font>
+            </th>
+            <th>
+                <font>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3noxy&layout=compact&theme=transparent&hide_border=true&locale=pt-br&title_color=8B8989" />
+                </font>
+            </th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+##
+
+##### Conhecimento em:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><br><sub>Java</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.devmedia.com.br/certificado/tecnologia/python/wilton-nicolas-de-lima-lopes">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br><sub>Python</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/wilton-nicolas-de-lima-lopes">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><br><sub>JavaScript</sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /><br><sub>PHP</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /><br><sub>HTML</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.devmedia.com.br/certificado/tecnologia/css/wilton-nicolas-de-lima-lopes">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br><sub>CSS3</sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="40" height="40" /><br><sub>Flutter</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /><br><sub>Django 📌</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /><br><sub>MySQL</sub>
+    </td>
+  </tr>
+</table>
+<sub><span style="color:gray;">📌 <i>Trabalhando atualmente</i></span></sub>
+
 
 ##
   
